@@ -2,13 +2,13 @@
 
 I'm a brazilian developer who loves learning new things.
 
-<!--
+
 **hebertrfreitas/hebertrfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning aws, python,  
+<!--
+- 🔭 I’m currently working on Platforms that provide Generative AI features
+- 🌱 I’m currently learning python ecosystem  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about backend develop, kotlin, java, spring boot, kubernetes
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on platforms that provide Generative AI features (LLM model providers, RAG, etc)
+- 🌱 I’m currently learning python ecosystem
 - ✍️ I write some technical articles here -> https://dev.to/hebertrfreitas
-- 💬 Ask me about backend develop, kotlin, java, spring boot, kubernetes
+- 💬 Ask me about backend develop, kotlin, java, spring boot, kubernetes, Generative AI
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hebertrfreitas.svg?style=social&label=Follow%20%40hebertrfreitas)](https://twitter.com/hebertrfreitas)
 
 📕  Latest Blog Posts
