@@ -2,10 +2,6 @@
 
 I'm a brazilian developer who loves learning new things.
 
-
-**hebertrfreitas/hebertrfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on Platforms that provide Generative AI features
 - 🌱 I’m currently learning python ecosystem  
