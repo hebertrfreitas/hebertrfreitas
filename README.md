@@ -15,7 +15,7 @@ I'm a brazilian developer who loves learning new things.
 
 - 🔭 I’m currently working on platforms that provide Generative AI features (LLM model providers, RAG, etc)
 - 🌱 I’m currently learning python ecosystem
-- ✍️ I write some technical articles here -> https://dev.to/hebertrfreitas
+- ✍️ I write some technical articles here -> https://hebertrfreitas.github.io
 - 💬 Ask me about backend develop, kotlin, java, spring boot, kubernetes, Generative AI
 - 📫 How to reach me: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/hebertrfreitas.svg?style=social&label=Follow%20%40hebertrfreitas)](https://twitter.com/hebertrfreitas) [![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-ribeiro-de-freitas-60262821/)
 
